@@ -1,2 +1,2 @@
 # GENESIS_Nowcast
-This is the repo for global precipitation nowcasting using IMERG dataset.
+This repository contains codes to our proposed GENESIS (Global prEcipitation Nowcasting using intEgrated multi-Satellite retrIevalS for GPM) models in the Global Precipitation Nowcasting of Integrated Multi-satellitE Retrievals for GPM: A U-Net Convolutional LSTM Architecture paper. The Models folder contains the details of our proposed models as weel as the trained models and the rest of the files are used to properly read the data, and create, train and save the models and finaly used the trained models to predict precipitation globally. The GENESIS notebook shows the precedure to use the trained network for global precipitation nowcasting for one sample.
