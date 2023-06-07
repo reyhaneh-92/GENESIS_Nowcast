@@ -8,5 +8,5 @@ The "GENESIS notebook" demonstrates the procedure for using the trained neural n
 Figure below shows the atchitecture of the developed network.
 
 
-<img src = "https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/80214308/a2a72ba0-e4d5-478e-a90e-52091a034282" width="800" height="400">
+<img src = "https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/80214308/a2a72ba0-e4d5-478e-a90e-52091a034282" width="700" height="400">
 
