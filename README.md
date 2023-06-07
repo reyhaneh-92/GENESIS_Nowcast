@@ -6,4 +6,4 @@ The "Models" folder provides details on the proposed precipitation nowcasting ne
 The "GENESIS notebook" demonstrates the procedure for using the trained neural networks to perform global precipitation nowcasting on a single sample.
 
 Figure below shows the atchitecture of the developed network.
-![GENESIS_arch](https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/46690843/086b40db-d02d-485c-a5f2-caa8793fb572)
+![GENESIS_arch](https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/46690843/086b40db-d02d-485c-a5f2-caa8793fb572 | width=100)
