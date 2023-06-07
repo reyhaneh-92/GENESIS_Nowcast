@@ -4,3 +4,5 @@ This repository contains the code for the Global prEcipitation Nowcasting using 
 The "Models" folder provides details on the proposed precipitation nowcasting neural netrowks, including the trained models. The remaining files are used to properly read the data, create, train, and save the models. Finally, the trained nueral networks are utilized to predict precipitation on a global scale.
 
 The "GENESIS notebook" demonstrates the procedure for using the trained neural networks to perform global precipitation nowcasting on a single sample.
+
+![GENESIS_arch](https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/46690843/086b40db-d02d-485c-a5f2-caa8793fb572)
