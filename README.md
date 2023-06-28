@@ -9,3 +9,9 @@ Figure below shows the atchitecture of the developed network.
 
 ![GENESIS_arch](https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/46690843/52691118-6bbb-4dbd-bae0-ec73f3b0aef4)
 
+
+
+
+
+https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/80214308/d6e5637b-cc34-40cb-839f-372adcd67ea3
+
