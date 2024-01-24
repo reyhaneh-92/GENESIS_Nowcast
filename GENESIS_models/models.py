@@ -1,3 +1,4 @@
+# This code only contains the architecture of GENESIS_MSE and GENESIS_FL
 from typing import Tuple
 import tensorflow as tf
 import tensorflow.keras.layers as layers
