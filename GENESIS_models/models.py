@@ -3,8 +3,7 @@ import tensorflow as tf
 import tensorflow.keras.layers as layers
 from tensorflow.keras import Model
 from tensorflow.keras.layers import (Activation, BatchNormalization, Conv3D,
-                          Conv3DTranspose, ConvLSTM2D, Dropout,
-                          Input, MaxPool3D)
+                          Conv3DTranspose, ConvLSTM2D, Dropout, Input, MaxPool3D)
 
 def unet_convlstm_reg(input_shape: Tuple[int] = (12, 256, 256, 4),
          num_filters_base: int = 8,
