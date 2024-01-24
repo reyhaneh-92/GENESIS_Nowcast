@@ -1,4 +1,3 @@
-import os
 import numpy as np
 from scipy import io
 import random
@@ -14,6 +13,7 @@ from tensorflow.keras.losses import mse
 from tensorflow.keras.layers import (Activation, BatchNormalization, Conv3D,
                           Conv3DTranspose, ConvLSTM2D, Dropout,
                           Input, MaxPool3D)
+import os
 from utils import *
 
 tf.config.optimizer.set_experimental_options({"layout_optimizer": False})
