@@ -7,4 +7,4 @@ The "GENESIS notebook" demonstrates the procedure for using the trained neural n
 
 The figure below shows the architecture of the developed network.
 
-![network](https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/80214308/b805b353-700d-48f7-a43c-c14a9a91371b)
+![network](https://github.com/reyhaneh-92/GENESIS_Nowcast/assets/80214308/8285ac09-d456-41ba-bd24-05efb89605ec)
